@@ -2,6 +2,7 @@ Git is a distributed version control system.
 <<<<<<< HEAD
 Git is free software distributed under the GPL.
 
+2015/ 8 / 15
 wwindow10 过去几天尝试了一下。很酷很炫。 召唤小冰后，对我来说，都不需要感情生活了。
 
 but。。。
